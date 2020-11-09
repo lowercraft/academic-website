@@ -26,13 +26,13 @@ interests:
 
  education:
    courses:
-     - course: Recognised Student of Research Methods for Area Studies: Qualitative Methods
+     - course: Recognised Student in Research Methods for Area Studies: Qualitative Methods
      institution: University of Oxford
      year: 2019
-     - course: MA in Philology – Tibetan Studies
+     - course: Master of Arts in Philology – Tibetan Studies
     institution: Charles University
     year: 2018
-    - course: BA in Philology – Tibetan Studies
+    - course: Bachelor in Philology – Tibetan Studies
     institution: Charles University
     year: 2015
 
