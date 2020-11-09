@@ -27,13 +27,13 @@ interests:
 education:
   courses:
     - course: Recognised Student of Research Methods for Area Studies: Qualitative Methods
-    institution: University of Oxford: OSGA, Contemporary South Asian Studies
+    institution: University of Oxford
     year: 2019
     - course: MA in Philology – Tibetan Studies
-    institution: Charles University: FoA, Department of South and Central Asia
+    institution: Charles University
     year: 2018
     - course: BA in Philology – Tibetan Studies
-    institution: Charles University: FoA, Department of South and Central Asia
+    institution: Charles University
     year: 2015
 
 # Social/Academic Networking
