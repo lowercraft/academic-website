@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2019-12-15"
   description = """Recognised Student at the University of Oxford, Oxford School of Global and Area Studies (Michaelmas term 2019). Accomplished under the academic advice of prof. Nayanika Mathur.
+  
   Opportunity provided by Charles University (Institute for the Study of Strategic Regions). Financial support provided by Anglo-Czech Educational Fund."""
 
 [[item]]
@@ -38,6 +39,7 @@ date_format = "Jan 2006"
   date_start = "2019-03-01"
   date_end = ""
   description = """Attending lectures on working with manuscripts in digital era (TEI principles, XML encoding, CSS, HTML). Finishing a follow-up reseach on my MA thesis.
+  
   Via CEEPUS, CIII-CZ-0011-14-1819-M-125847 (Study of Religions): The Austrian Agency for International Cooperation in Education & Research (OeAD-GmbH), Centre for International Cooperation and Mobility (ICM)."""
  
 
