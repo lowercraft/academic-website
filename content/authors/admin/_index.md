@@ -24,16 +24,7 @@ interests:
 - Semiological multimodality
 - Social space theory
 
-education:
-- course: Recognised Student in Research Methods for Area Studies: Qualitative Methods
-  institution: University of Oxford
-  year: 2019
-- course: Master of Arts in Philology – Tibetan Studies
-  institution: Charles University
-  year: 2018
-- course: Bachelor in Philology – Tibetan Studies
-  institution: Charles University
-  year: 2015
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,3 +61,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+Martin Hanker is a PhD student of 'History and Cultures of Asian and African Countries' at the IAS where he previously graduated with honours in Tibetan Studies (2018). His work focuses on the role of contemporary Tibetan popular and folk music within the broader framework of socio-cultural life; namely the innovation in musical and poetical expression and the concepts of 'authenticity' and 'place/space' in the youths' identity (as part of the 'Tibetanness'). In his dissertation, he explores the (sub-)culture of Tibetan hip- hop through the combined perspectives of anthropology and philology. Besides, as follow-up research stemming from his MA thesis, Martin also investigates a corpus of Tibetan craniological manuals including their broader contexts and influences.
+
+Since 2018, Martin has worked for the Oriental Institute CAS as editor-in-chief of an online Tibetan-English-Czech dictionary and retro-cataloguist of old manuscripts. As a librarian and junior research assistant, he has been responsible for the Tibetan collection at his alma mater since 2016. Martin is the founding member of the Czech association of Orientalists called 'Orientalistic Express' which aims to support research cooperation and popularisation across specialisations and universities. Receiving a scholarship from the Anglo-Czech Educational Fund enabled him to become a Recognised Student at the University of Oxford (OSGA, Contemporary South Asian Studies, 2019), where he was focusing on advancing his skills in research design and qualitative methodology. Earlier the same year, he absolved a CEEPUS internship at the Wiener Universität (Institut für Südasien-, Tibet- und Buddhismuskunde) where he attended lectures on TEI principles and XML encoding. His research was repeatedly supported by the 'Specific University Research' and also the funding from 'Inner Grants' which included ethnographic field research in Mustang (Nepal)
+
+Martin co-authored an open access e-monograph called 'Chapters from life of Tibetans' (2019; in English) and published several articles in Czech. He participated in international conferences (17th Annual Conference of the European Association for the Study of Religions, 19th colloquium Orientalia Antiqua Nova) and workshops (Tibetanness outside Tibet, Contemporary Discourses in the Tibetan Diaspora). In 2019, he organised a student conference for PhD students of Asian studies from all Czech universities. Throughout the years, he gave multiple public lectures on various Tibet-related topics, namely at the One World Festival or as part of the TGSS lectures at the Faculty of Oriental Studies in Oxford.
