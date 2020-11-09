@@ -1,37 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Martin Hanker
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student of Asian History and Culture
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Charles University
+  url: "https://uas.ff.cuni.cz"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 1376
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Tibetophone Hip-Hop
+- Tibetan poetry and music
+- Human skulls in ritual manuals
+- Digital Humanities
+- Semiological multimodality
+- Social space theory
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Recognised Student of Research Methods for Area Studies: Qualitative Methods
+    institution: University of Oxford: Oxford School of Global and Area Studies, Contemporary South Asian Studies
+    year: 2019
+  - course: MA in Philology – Tibetan Studies
+    institution: Charles University: Faculty of Arts, Department of South and Central Asia
+    year: 2018
+  - course: BA in Philology – Tibetan Studies
+    institution: Charles University: Faculty of Arts, Department of South and Central Asia
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "mailto:martin.hanker@ff.cuni.cz".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/lowercraft
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=cs&user=5ruNlPMAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/lowercraft
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +63,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +72,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Martin Hanker is a PhD student of 'History and Cultures of Asian and African Countries' at the IAS where he previously graduated with honours in Tibetan Studies (2018). His work focuses on the role of contemporary Tibetan popular and folk music within the broader framework of socio-cultural life; namely the innovation in musical and poetical expression and the concepts of 'authenticity' and 'place/space' in the youths' identity (as part of the 'Tibetanness'). In his dissertation, he explores the (sub-)culture of Tibetan hip- hop through the combined perspectives of anthropology and philology. Besides, as follow-up research stemming from his MA thesis, Martin also investigates a corpus of Tibetan craniological manuals including their broader contexts and influences.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Since 2018, Martin has worked for the Oriental Institute CAS as editor-in-chief of an online Tibetan-English-Czech dictionary and retro-cataloguist of old manuscripts. As a librarian and junior research assistant, he has been responsible for the Tibetan collection at his alma mater since 2016. Martin is the founding member of the Czech association of Orientalists called 'Orientalistic Express' which aims to support research cooperation and popularisation across specialisations and universities. Receiving a scholarship from the Anglo-Czech Educational Fund enabled him to become a Recognised Student at the University of Oxford (OSGA, Contemporary South Asian Studies, 2019), where he was focusing on advancing his skills in research design and qualitative methodology. Earlier the same year, he absolved a CEEPUS internship at the Wiener Universität (Institut für Südasien-, Tibet- und Buddhismuskunde) where he attended lectures on TEI principles and XML encoding. His research was repeatedly supported by the 'Specific University Research' and also the funding from 'Inner Grants' which included ethnographic field research in Mustang (Nepal)
+
+Martin co-authored an open access e-monograph called 'Chapters from life of Tibetans' (2019; in English) and published several articles in Czech. He participated in international conferences (17th Annual Conference of the European Association for the Study of Religions, 19th colloquium Orientalia Antiqua Nova) and workshops (Tibetanness outside Tibet, Contemporary Discourses in the Tibetan Diaspora). In 2019, he organised a student conference for PhD students of Asian studies from all Czech universities. Throughout the years, he gave multiple public lectures on various Tibet-related topics, namely at the One World Festival or as part of the TGSS lectures at the Faculty of Oriental Studies in Oxford.
