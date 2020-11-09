@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-    - course: Recognised Student of Research Methods for Area Studies: Qualitative Methods
+    - course: Research Methods for Area Studies: Qualitative Methods
     institution: University of Oxford
     year: 2019
     - course: MA in Philology – Tibetan Studies
