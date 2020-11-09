@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   title = "Research Methods for Area Studies: Qualitative Methods"
   url = ""
   certificate_url = ""
-  date_start = "2019-10"
-  date_end = "2019-12"
-  description = "Recognised Student at the University of Oxford (Michaelmas term 2019) under the academic advice of prof. Nayanika Mathur. Via Charles University, Institute for the Study of Strategic Regions (ISSR). Financial support provided by Anglo-Czech Educational Fund."
+  date_start = "2019-10-01"
+  date_end = "2019-12-15"
+  description = """Recognised Student at the University of Oxford (Michaelmas term 2019) under the academic advice of prof. Nayanika Mathur. Via Charles University, Institute for the Study of Strategic Regions (ISSR). Financial support provided by Anglo-Czech Educational Fund."""
 
 [[item]]
   organization = "Wiener Universität: Institut für Südasien-, Tibet- und Buddhismuskunde"
@@ -34,9 +34,9 @@ date_format = "Jan 2006"
   title = "Digital Tibetology"
   url = ""
   certificate_url = ""
-  date_start = "2019-03"
-  date_end = "2019-03"
-  description = "Attending lectures on working with manuscripts in digital era (TEI principles, XML encoding, CSS, HTML). Follow-up reseach on my MA thesis. Via CEEPUS, CIII-CZ-0011-14-1819-M-125847 (Study of Religions): The Austrian Agency for International Cooperation in Education & Research (OeAD-GmbH), Centre for International Cooperation and Mobility (ICM)."
+  date_start = "2019-03-01"
+  date_end = "2019-03-30"
+  description = """Attending lectures on working with manuscripts in digital era (TEI principles, XML encoding, CSS, HTML). Follow-up reseach on my MA thesis. Via CEEPUS, CIII-CZ-0011-14-1819-M-125847 (Study of Religions): The Austrian Agency for International Cooperation in Education & Research (OeAD-GmbH), Centre for International Cooperation and Mobility (ICM)."""
  
 
 +++
