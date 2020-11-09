@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Work Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,11 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Academic consultant and editor"
+  company = "SlovArt"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = ""
+  date_start = "2020-07-01"
+  date_end = "2020-10-30"
+  description = "I was involved in the Czech and Slovakian publications of HH 14th dalai lama's biography entitled 'Jeho Svatost čtrnáctý dalajlama, ilustrovaný životopis' originally written by Tendzin G. Tethong. I oversaw the translation process and authored the commentary, transliterations, and notes."
+  
+
+[[experience]]
+  title = "Chief editor"
+  company = "Oriental Institute of the Czech Academy of Sciences"
+  company_url = ""
+  location = ""
+  date_start = "2018-05-01"
+  date_end = ""
+  description = "I joined a project led by Jarmila Ptáčková. Its aim was to create an online Czech-Tibetan-English dictionary with example senteces. Besides translating and editing the entries, my responsibility was to extend the feature set and, at the same time, propose possible implementations (e.g. Czech and English WordNets or sourcing the example sentences from a Tibetan corpus)."
+
+[[experience]]
+  title = "Chief editor"
+  company = "Oriental Institute of the Czech Academy of Sciences"
+  company_url = ""
+  location = ""
+  date_start = "2018-05-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -31,14 +50,5 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
