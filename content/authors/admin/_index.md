@@ -25,14 +25,15 @@ interests:
 - Social space theory
 
 education:
-- course: Recognised Student of Research Methods for Area Studies: Qualitative Methods
-    institution: University of Oxford: Oxford School of Global and Area Studies, Contemporary South Asian Studies
+  courses:
+    - course: Recognised Student of Research Methods for Area Studies: Qualitative Methods
+    institution: University of Oxford: OSGA, Contemporary South Asian Studies
     year: 2019
-- course: MA in Philology – Tibetan Studies
-    institution: Charles University: Faculty of Arts, Department of South and Central Asia
+    - course: MA in Philology – Tibetan Studies
+    institution: Charles University: FoA, Department of South and Central Asia
     year: 2018
-- course: BA in Philology – Tibetan Studies
-    institution: Charles University: Faculty of Arts, Department of South and Central Asia
+    - course: BA in Philology – Tibetan Studies
+    institution: Charles University: FoA, Department of South and Central Asia
     year: 2015
 
 # Social/Academic Networking
@@ -42,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:martin.hanker@ff.cuni.cz".
+  link: 'mailto:martin.hanker@ff.cuni.cz'  # For a direct email link, use "mailto:martin.hanker@ff.cuni.cz".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lowercraft
