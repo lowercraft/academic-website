@@ -25,14 +25,13 @@ interests:
 - Social space theory
 
 education:
-  courses:
-  - course: Recognised Student of Research Methods for Area Studies: Qualitative Methods
+- course: Recognised Student of Research Methods for Area Studies: Qualitative Methods
     institution: University of Oxford: Oxford School of Global and Area Studies, Contemporary South Asian Studies
     year: 2019
-  - course: MA in Philology – Tibetan Studies
+- course: MA in Philology – Tibetan Studies
     institution: Charles University: Faculty of Arts, Department of South and Central Asia
     year: 2018
-  - course: BA in Philology – Tibetan Studies
+- course: BA in Philology – Tibetan Studies
     institution: Charles University: Faculty of Arts, Department of South and Central Asia
     year: 2015
 
@@ -63,7 +62,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
