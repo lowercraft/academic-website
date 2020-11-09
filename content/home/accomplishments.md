@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Internships"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "University of Oxford: Oxford School of Global and Area Studies, Contemporary South Asian Studies"
+  organization_url = "https://www.area-studies.ox.ac.uk"
+  title = "Research Methods for Area Studies: Qualitative Methods"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = ""
+  date_start = "2019-10"
+  date_end = "2019-12"
+  description = "Recognised Student at the University of Oxford (Michaelmas term 2019) under the academic advice of prof. Nayanika Mathur. Via Charles University, Institute for the Study of Strategic Regions (ISSR). Financial support provided by Anglo-Czech Educational Fund."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Wiener Universität: Institut für Südasien-, Tibet- und Buddhismuskunde"
+  organization_url = "https://stb.univie.ac.at"
+  title = "Digital Tibetology"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2019-03"
+  date_end = "2019-03"
+  description = "Attending lectures on working with manuscripts in digital era (TEI principles, XML encoding, CSS, HTML). Follow-up reseach on my MA thesis. Via CEEPUS, CIII-CZ-0011-14-1819-M-125847 (Study of Religions): The Austrian Agency for International Cooperation in Education & Research (OeAD-GmbH), Centre for International Cooperation and Mobility (ICM)."
+ 
 
 +++
