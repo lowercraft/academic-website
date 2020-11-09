@@ -26,15 +26,15 @@ interests:
 
  education:
    courses:
-   - course: PhD in Artificial Intelligence
-     institution: Stanford University
-     year: 2012
-   - course: MEng in Artificial Intelligence
-     institution: Massachusetts Institute of Technology
-     year: 2009
-   - course: BSc in Artificial Intelligence
-     institution: Massachusetts Institute of Technology
-     year: 2008
+     - course: Recognised Student of Research Methods for Area Studies: Qualitative Methods
+     institution: University of Oxford
+     year: 2019
+     - course: MA in Philology – Tibetan Studies
+    institution: Charles University
+    year: 2018
+    - course: BA in Philology – Tibetan Studies
+    institution: Charles University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
