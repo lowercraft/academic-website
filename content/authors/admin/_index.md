@@ -25,7 +25,6 @@ interests:
 - Social space theory
 
 education:
-  courses:
   - course: Recognised Student in Research Methods for Area Studies: Qualitative Methods
     institution: University of Oxford
     year: 2009
