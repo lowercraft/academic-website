@@ -6,7 +6,7 @@ title: Martin Hanker
 superuser: true
 
 # Role/position
-role: PhD student of Asian History and Culture
+role: PhD student and librarian
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ interests:
 - Tibetan poetry and music
 - Human skulls in ritual manuals
 - Digital Humanities
-- Semiological multimodality
+- Semiology
 - Social space theory
 
 # education:
@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Martin Hanker is a PhD student of History and Cultures of Asian and African Countries at the Institute of Asian Studies, Charles University, where he previously graduated with honours in Tibetan Studies (2018). His work focuses on the role of contemporary Tibetan popular and folk music within the broader framework of socio-cultural life; namely the innovation in poetical expression and the concepts of 'authenticity' and 'place/space' in the youths' identity (as part of the 'Tibetanness'). In his dissertation, he explores the (sub-)culture of Tibetan hip-hop through the combined perspectives of anthropology and philology. Besides, as follow-up research stemming from his MA thesis, Martin also investigates a corpus of Tibetan craniological manuals.
+I am a PhD student of History and Cultures of Asian and African Countries at the Institute of Asian Studies, Charles University, where I previously graduated with honours in Tibetan Studies (2018). My work focuses on the role of contemporary Tibetan popular and folk music within the broader framework of socio-cultural life. Firstly, I am interested in the lyrics – the innovation of the poetical tools in use and, secondly, the role of the 'authenticity' and 'place/space' concepts in youths' identity and its relation to the overarching theme of 'Tibetanness'. Thus, in my dissertation I explore the (sub-)culture of Tibetan hip-hop through the combined perspectives of anthropology and philology. Besides, as follow-up research stemming from my MA thesis, I also investigate a corpus of Tibetan craniological manuals which brought my attention to the use of digital tools in humanitites.
 <details><summary>Read more</summary>
 
 <p>
