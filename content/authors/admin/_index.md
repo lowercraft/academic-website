@@ -14,7 +14,7 @@ organizations:
   url: "https://uas.ff.cuni.cz"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 1376
+bio: "1376"
 
 interests:
 - Tibetophone Hip-Hop
@@ -66,9 +66,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I am a PhD student of History and Cultures of Asian and African Countries at the Institute of Asian Studies, Charles University, where I previously graduated with honours in Tibetan Studies (2018). My work focuses on the role of contemporary Tibetan popular and folk music within the broader framework of socio-cultural life. Firstly, I am interested in the lyrics – the innovation of the poetical tools in use and, secondly, the role of the 'authenticity' and 'place/space' concepts in youths' identity and its relation to the overarching theme of 'Tibetanness'. Thus, in my dissertation I explore the (sub-)culture of Tibetan hip-hop through the combined perspectives of anthropology and philology. Besides, as follow-up research stemming from my MA thesis, I also investigate a corpus of Tibetan craniological manuals which brought my attention to the use of digital tools in humanitites.
