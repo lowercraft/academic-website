@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ikar.sk"
   location = ""
   date_start = "2021-01-01"
-  date_end = "2021-02-30"
+  date_end = ""
   description = "I contributed to the Slovakian edition of HH 14th dalai lama's biography entitled 'Dalajlama: Nevšedný príbeh', originally written by Alexander Norman."
 
 [[experience]]
