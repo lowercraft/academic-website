@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Na Příkopě 27", city = "Prague 5 – Smíchov", region = "Prague", postcode = "15000", country = "Czech Republic", country_code = "CS"}
+address = {street = "Na Příkopě 29", city = "Praha 1 – Staré město", region = "Prague", postcode = "11000", country = "Czech Republic", country_code = "CS"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -104,7 +104,7 @@ directions = "Enter the building by going through the glass door at the end of t
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Regularly in office only on Tuesdays 09:00 to 12:00."]
+office_hours = ["Regularly in office on Mondays 09:00 – 19:00."]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"

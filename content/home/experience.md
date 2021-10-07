@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Work Experience"
-subtitle = ""
+subtitle = "Here is a list of my past and current employments. Creativity, responsibility, and precision are three main features common to all of them."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
