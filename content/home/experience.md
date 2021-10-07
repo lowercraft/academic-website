@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   company = "Dharmasala s.r.o."
   company_url = "http://www.dharmasala.cz/wp/"
   date_start = "2013-05-01"
-  date_end = "2017–08–01"
+  date_end = ""
   description = "I co-founded the Tibetan tearoom and supervised the project from its earliest stage (from interior design to supliers and HR). Then I worked as an operation manager and aided the development of its subsidary projects Momos bistro and ICE TEA bar. Besides, I also worked as an event manager supervising festivals, catering services, and other miscellaneous events (lectures, concerts etc.). My responsibilities included marketing campaigns, copywriting, graphic design, proofreading, crowdfunding, payrolls etc."
 
 #[[experience]]
