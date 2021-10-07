@@ -70,13 +70,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = "I am helping my *alma mater* to maintain the institute's websites (WordPress) and Facebook profiles including copywriting and graphic design. I organise various events from lectures to conferences (e.g. for the 2022 Seminar of the International Association of Tibetan Studies in Prague I supervised the PR incl. all communication, assisted with the conference software and cultural programme, set up and administered the website and newsletter etc.). I also manage the institute's library containing approx. 3000 volumes in Tibetan, English, Czech, French, and German."
 
-#[[experience]]
-#  title = "Co-founder, operation manager"
-#  company = "Dharmasala s.r.o."
-#  company_url = "http://www.dharmasala.cz/wp/"
-#  date_start = "2017–08–01"
-#  date_end = "2013-05-01"
-#  description = "I co-founded the Tibetan tearoom and supervised the project from its earliest stage (from interior design to supliers and HR). Then I worked as an operation manager and aided the development of its subsidary projects Momos bistro and ICE TEA bar. Besides, I also worked as an event manager supervising festivals, catering services, and other miscellaneous events (lectures, concerts etc.). My responsibilities included marketing campaigns, copywriting, graphic design, proofreading, crowdfunding, payrolls etc."
+[[experience]]
+  title = "Co-founder, operation manager"
+  company = "Dharmasala s.r.o."
+  company_url = "http://www.dharmasala.cz/wp/"
+  date_start = "2013-05-01"
+  date_end = "2017–08–01"
+  description = "I co-founded the Tibetan tearoom and supervised the project from its earliest stage (from interior design to supliers and HR). Then I worked as an operation manager and aided the development of its subsidary projects Momos bistro and ICE TEA bar. Besides, I also worked as an event manager supervising festivals, catering services, and other miscellaneous events (lectures, concerts etc.). My responsibilities included marketing campaigns, copywriting, graphic design, proofreading, crowdfunding, payrolls etc."
 
 #[[experience]]
 #  title = "Chief editor"
