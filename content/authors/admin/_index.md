@@ -14,26 +14,26 @@ organizations:
   url: "https://uas.ff.cuni.cz"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "1376"
+bio: "Powered by music and tea since 1992."
 
 interests:
-- Tibetophone Hip-Hop
-- Tibetan poetry and music
-- Human skulls in ritual manuals
+- Tibetophone rap lyrics
+- Tibetan oral poetry and music
+- Tibetanness and identity discourse
+- Use of human skulls in Tibetan ritual
 - Digital Humanities
-- Semiology
 - Social space theory
 
-#education:
-#- course: Recognised Student in Research Methods for Area Studies: Qualitative Methods
-#  - institution: University of Oxford
-#  - year: 2009
-#- course: Master of Arts in Philology – Tibetan Studies
-#  - institution: Charles University, Faculty of Arts
-#  - year: 2018
-#- course: Bachelor in Philology – Tibetan Studies
-#  - institution: Charles University, Faculty of Arts
-#  - year: 2015
+education:
+- course: Recognised Student in Research Methods for Area Studies: Qualitative Methods
+  - institution: University of Oxford
+  - year: 2009
+- course: Master of Arts in Philology – Tibetan Studies
+  - institution: Charles University, Faculty of Arts
+  - year: 2018
+- course: Bachelor in Philology – Tibetan Studies
+  - institution: Charles University, Faculty of Arts
+  - year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,12 +71,9 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a PhD student of History and Cultures of Asian and African Countries at the Institute of Asian Studies, Charles University (Prague), where I previously graduated with honours in Tibetan Studies (2018). My work focuses on the role of **contemporary Tibetan popular and folk music** within the broader framework of socio-cultural life. Above all, I am interested in the lyrics – the innovation of the poetical tools in use and, furthermore, the role of the *authenticity* and *place/space* concepts in youths' identity and its relation to the overarching theme of *Tibetanness*. Thus, in my dissertation I explore the **(sub-)culture of Tibetan hip-hop through the combined perspectives of anthropology and philology**. Besides, as a follow-up research stemming from my MA thesis, I also investigate a corpus of **Tibetan craniological manuals** which brought my attention to the use of digital tools in humanitites.
-<details><summary>Read more</summary>
-<br/>
-<p>
-Since 2018, I have worked for the Oriental Institute of the Czech Academy of Sciences as an editor-in-chief of an online [Tibetan-English-Czech dictionary](https://linguatools.info/tibendicts/) (in *beta*) and a cataloguist of old Tibetan manuscripts. Furthermore, as a librarian and junior research assistant, I have been responsible for the Tibetan collection at my *alma mater* since 2016. I am also one of the founding members of the Czech association of Orientalists called [Orientalistic Express](http://orientalistickyexpres.cz) which aims to support cross-disciplinary cooperation and research popularisation. In 2019, receiving a scholarship from the Anglo-Czech Educational Fund enabled me to become a Recognised Student at the University of Oxford where I was focusing on advancing my skills in research design and qualitative methodology. Earlier the same year, I partook a CEEPUS internship at the Wiener Universität where I attended lectures on TEI principles and XML encoding. My research was repeatedly supported by the Charles University, including funding of two field research trips to Mustang (Nepal) and Dharamsala (India).
-<br/>
+I am a PhD student of History and Cultures of Asian and African Countries at the Institute of Asian Studies, Charles University (Prague), where I previously graduated with honours in Tibetan Studies (2018). My work focuses on the role of contemporary Tibetan popular and folk music within the broader framework of socio-cultural life. Above all, I am interested in the lyrics – the innovation of poetic tools an language, in relation to the identity discourse and the overarching theme of Tibetanness. From the conceptual standpoint, I explore the role of *authenticity* and *place/space* concepts. Thus, in my dissertation I research the **(sub-)culture of Tibetan hip-hop through the perspective of philology**. Besides, as a follow-up research stemming from my MA thesis, I also investigate the corpus of **Tibetan craniological manuals** which originally brought my attention to the use of digital tools in humanitites.
+<summary>Read more</summary>
+
+Since 2018, I have worked for the Oriental Institute of the Czech Academy of Sciences as an editor-in-chief of an online [Tibetan-English-Czech dictionary](https://linguatools.info/tibendicts/) (in *beta*) and a cataloguist of old Tibetan manuscripts. Furthermore, as a librarian and junior research assistant, I have been responsible for the Tibetan collection at my *alma mater* since 2016. I am also one of the founding members of the Czech Association of Orientalists called [Orientalistic Express](http://orientalistickyexpres.cz) which aims to support cross-disciplinary cooperation, research popularisation and provides fact-checking on demand. Receiving a scholarship from the Anglo-Czech Educational Fund in 2019 enabled me to become a Recognised Student at the University of Oxford where I was focused on advancing my skills in research design and qualitative methodology. Earlier the same year, I partook a CEEPUS internship at the Wiener Universität where I attended lectures on TEI principles and XML encoding. Morevoer, my research was repeatedly supported by the Charles University, including funding of two field research trips to Mustang (Nepal) and Dharamsala (India).
+
 In 2019, I have co-authored an open access e-monograph called *[Chapters from life of Tibetans](https://karolinum.cz/knihy/jandacek-chapters-from-life-of-tibetans-22475)* (in English) and published several articles (in Czech) throughout the years. My participation in international conferences included e.g. the 17th Annual Conference of the European Association for the Study of Religions (Tartu) or the 19th colloquium Orientalia Antiqua Nova (Pilsen). In 2019, I organised a student conference for PhD students of Asian studies from all Czech universities. Throughout the years, I gave multiple public lectures on various Tibet-related topics, namely at the One World Festival or as part of the TGSS at the Faculty of Oriental Studies in Oxford.
-</p>
-</details>
