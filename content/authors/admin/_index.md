@@ -26,14 +26,14 @@ interests:
 
 education:
 - course: Recognised Student in Research Methods for Area Studies – Qualitative Methods
-  institution: University of Oxford, OSGA
-  year: '2019'
+  - institution: University of Oxford, OSGA
+  - year: '2019'
 - course: Master of Arts in Philology – Tibetan Studies
-  institution: Charles University, Faculty of Arts
-  year: '2018'
+  - institution: Charles University, Faculty of Arts
+  - year: '2018'
 - course: Bachelor in Philology – Tibetan Studies
-  institution: Charles University, Faculty of Arts
-  year: '2015'
+  - institution: Charles University, Faculty of Arts
+  - year: '2015'
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
