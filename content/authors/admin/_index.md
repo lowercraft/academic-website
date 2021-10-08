@@ -24,7 +24,6 @@ interests:
 - Digital Humanities
 - Social space theory
 - Bibliometrics and CDA
-- Music & tea
 
 education:
   courses:
