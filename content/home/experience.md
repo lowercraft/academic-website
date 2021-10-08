@@ -67,7 +67,12 @@ date_format = "Jan 2006"
   company_url = "https://www.uas.ff.cuni.cz"
   date_start = "2017-02-01"
   date_end = ""
-  description = "I take care of the institute's website (WordPress) and Facebook profile both technically and content wise, incl. copywriting, graphic design and coding (HTML). I help to organise various events from lectures to conferences (e.g. for the 2022 Seminar of the [International Association of Tibetan Studies](http://www.iats.info) I supervised the PR incl. all communication, assisted with the conference software and cultural programme, set up and administered the website and newsletter etc.)."
+  description = """I take care of the institute's website (WordPress) and Facebook profile both technically and content wise, incl. copywriting, graphic design and coding (HTML). I help to organise various events from lectures to conferences (e.g. for the 2022 Seminar of the [International Association of Tibetan Studies](http://www.iats.info) I supervised the PR incl. all communication, assisted with the conference software and cultural programme, set up and administered the website and newsletter etc.). Furthermore, I also taught several courses:
+
+  - introductory spoken Lhasa Tibetan
+  - Orientalism after Said
+  - general introduction to the Tibetan Studies, humanities and research resources
+  - intensive Tibetan language course (under the Library of Languages)."""
 
 [[experience]]
   title = "Librarian"
