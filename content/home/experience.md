@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Bratislava"
   date_start = "2021-01-01"
   date_end = "2021-03-01"
-  description = "I contributed to the Slovakian edition of HH 14th dalai lama's biography entitled *Dalajlama: Nevšedný príbeh* written by Alexander Norman. My responsibilities were primarily fact-checking and providing critical remarks regarding the historical and cultural context."
+  description = "I contributed to the Slovakian edition of HH 14th dalai lama's biography entitled [*Dalajlama: Nevšedný príbeh*](https://www.bux.sk/knihy/445139-dalajlama-nevsedny-pribeh.html) written by Alexander Norman. My responsibilities were primarily fact-checking and providing critical remarks regarding the historical and cultural context."
 
 [[experience]]
   title = "Academic consultant"
