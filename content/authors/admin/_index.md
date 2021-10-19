@@ -48,12 +48,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lowercraft
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=cs&user=5ruNlPMAAAAJ
 - icon: academia
   icon_pack: ai
   link: https://cuni.academia.edu/MartinHanker
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=cs&user=5ruNlPMAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/lowercraft
