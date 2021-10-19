@@ -51,6 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=cs&user=5ruNlPMAAAAJ
+- icon: academia
+  icon_pack: ai
+  link: https://cuni.academia.edu/MartinHanker
 - icon: github
   icon_pack: fab
   link: https://github.com/lowercraft
