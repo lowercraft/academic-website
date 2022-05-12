@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company = "Charles University: Rectorate, CU Point, Information and Services for International Students"
   company_url = "https://ukpoint.cuni.cz"
   date_start = "2021-03-01"
-  date_end =
-  description =
+  date_end = ""
+  description = ""
 
 [[experience]]
   title = "Academic consultant"
