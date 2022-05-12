@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Work Experience"
-subtitle = "Here is a list of my past and current employments or other payed positions."
+subtitle = "Here is a list of my past and current employments and other paid positions."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -17,6 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "International student's coordinator"
+  company = "Charles University: Rectorate, CU Point, Information and Services for International Students"
+  company_url = "https://ukpoint.cuni.cz"
+  date_start = "2021-03-01"
+  date_end =
+  description =
 
 [[experience]]
   title = "Academic consultant"
@@ -38,7 +46,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Editor-in-chief of online dictionary"
-  company = "Oriental Institute of the Czech Academy of Sciences"
+  company = "Czech Academy of Sciences: Oriental Institute"
   company_url = "http://www.orient.cas.cz/index.html"
   location = ""
   date_start = "2018-05-01"
@@ -55,7 +63,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Cataloguist of Tibetan collection"
-  company = "Oriental Institute of the Czech Academy of Sciences"
+  company = "Czech Academy of Sciences: Oriental Institute"
   company_url = "http://www.orient.cas.cz/index.html"
   date_start = "2017-09-01"
   date_end = "2017-12-31"
@@ -75,7 +83,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Librarian"
-  company = "Charles University: Faculty of Arts, Institute of Asian Studies, Collection of Tibetan and Mongolian Studies"
+  company = "Charles University: Faculty of Arts, Institute of Asian Studies, Library of Tibetan and Mongolian Studies"
   company_url = "https://www.uas.ff.cuni.cz"
   date_start = "2015-10-01"
   date_end = ""
