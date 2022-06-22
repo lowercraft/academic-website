@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "International student's coordinator"
+  title = "International Students' Advisor"
   company = "Charles University: Rectorate, CU Point, Information and Services for International Students"
   company_url = "https://ukpoint.cuni.cz"
   date_start = "2021-03-01"
