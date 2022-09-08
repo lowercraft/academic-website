@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "International Students' Advisor"
+  title = "International Applicants and Students Advisor"
   company = "Charles University: Rectorate, CU Point, Information and Services for International Students"
-  company_url = "https://ukpoint.cuni.cz"
+  company_url = "[https://ukpoint.cuni.cz](https://ukpoint.cuni.cz/IPSCEN-1.html)"
   date_start = "2021-03-01"
   date_end = ""
   description = ""
@@ -86,8 +86,8 @@ date_format = "Jan 2006"
   company = "Charles University: Faculty of Arts, Institute of Asian Studies, Library of Tibetan and Mongolian Studies"
   company_url = "https://www.uas.ff.cuni.cz"
   date_start = "2015-10-01"
-  date_end = ""
-  description = "I manage the institute's library containing approx. 3000 volumes in Tibetan, English, Czech, French, and German. In 2021, our university switched from ALEPH to ALMA integrated solution. I am familiar with MARC21 and RDA guidelines. I regularly order new books in accordance with the library vision for its future expansion."
+  date_end = "2022-08-01"
+  description = "I managed the institute's library containing approx. 3000 volumes in Tibetan, English, Czech, French, and German. In 2021, our university switched from ALEPH to ALMA integrated solution. I am familiar with MARC21 and RDA guidelines. I regularly order new books in accordance with the library vision for its future expansion."
 
 [[experience]]
   title = "Co-founder, operation manager"
