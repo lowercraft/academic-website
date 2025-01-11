@@ -6,7 +6,7 @@ title: Martin Hanker
 superuser: true
 
 # Role/position
-role: PhD student and librarian
+role: PhD candidate & international student recruiter and advisor
 
 # Organizations/Affiliations
 organizations:
