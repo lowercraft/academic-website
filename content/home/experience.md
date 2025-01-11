@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "[https://ukpoint.cuni.cz](https://ukpoint.cuni.cz/IPSCEN-1.html)"
   date_start = "2024-10-01"
   date_end = ""
-  description = "Thanks to a successful fundraising, I established a new department responsible for coordinating the recruitment of international degree students and their ensuing on-site support across all 17 faculties of Charles University. A core team of four people at the Rectorate gradually expanded into a bigger project-like working group, with cooperating members from across the institution. The areas of my responsibilities include global recruitment and marketing strategy; support, training, and coordination of decentralised admission teams; development of student services and on-site support."
+  description = "Thanks to a successful fundraising, I established a new department responsible for coordinating the recruitment of international degree students and their ensuing on-site support across all 17 faculties of Charles University. A core team of four people at the Rectorate gradually expanded into a bigger project-like working group, with cooperating members from across the institution. The areas of my responsibilities include global recruitment and marketing strategy including online tools; support, training, and coordination for our decentralised admission teams; further development of student services and on-site support."
   
 [[experience]]
   title = "International Applicants and Students Advisor"
