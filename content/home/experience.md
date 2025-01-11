@@ -19,12 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Project manager and team leader at the International Student Hub"
+  company = "Charles University: Rectorate, CU Point"
+  company_url = "[https://ukpoint.cuni.cz](https://ukpoint.cuni.cz/IPSCEN-1.html)"
+  date_start = "2024-10-01"
+  date_end = ""
+  description = "Thanks to a successful fundraising, I established a new department responsible for coordinating the recruitment of international degree students and their ensuing on-site support across all 17 faculties of Charles University. A core team of four people at the Rectorate gradually expanded into a bigger project-like working group, with cooperating members from across the institution. The areas of my responsibilities include global recruitment and marketing strategy; support, training, and coordination of decentralised admission teams; development of student services and on-site support."
+  
+[[experience]]
   title = "International Applicants and Students Advisor"
-  company = "Charles University: Rectorate, CU Point, Information and Services for International Students"
+  company = "Charles University: Rectorate, CU Point"
   company_url = "[https://ukpoint.cuni.cz](https://ukpoint.cuni.cz/IPSCEN-1.html)"
   date_start = "2021-03-01"
-  date_end = ""
-  description = ""
+  date_end = "2024-09-30"
+  description = "Organising services and on-site support for international degree students of Charles University. Preparing content strategy and materials for recruitment of international applicants."
 
 [[experience]]
   title = "Academic consultant"
