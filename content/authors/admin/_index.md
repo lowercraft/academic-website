@@ -8,7 +8,7 @@ superuser: true
 # Role/position
 role: PhD candidate & international student recruiter and advisor
 
-# Organizations/Affiliations
+# Affiliations
 organizations:
 - name: Charles University
   url: "https://uas.ff.cuni.cz"
@@ -45,9 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:martin.hanker@ff.cuni.cz'  # For a direct email link, use "mailto:martin.hanker@ff.cuni.cz".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/lowercraft
 - icon: academia
   icon_pack: ai
   link: https://cuni.academia.edu/MartinHanker
@@ -76,10 +73,10 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a PhD student of History and Cultures of Asian and African Countries at the Institute of Asian Studies, Charles University (Prague), where I previously graduated with honours in Tibetan Studies (2018). My work focuses on the role of contemporary Tibetan popular and folk music within the broader framework of socio-cultural life. Above all, I am interested in the lyrics – the innovation of poetic tools and language in relation to the identity discourse. From the theoretical standpoint, my research hinge on the concepts of *authenticity* and *place-making*. Thus, in my dissertation I explore the **traces of orality in Tibetan rap lyrics**. Besides, as a follow-up research stemming from my MA thesis, I also investigate the corpus of **Tibetan craniological manuals** which had originally brought my attention to the use of digital tools in humanities.
+I am a PhD student of History and Cultures of Asian and African Countries at the Institute of Asian Studies, Charles University (Prague), where I previously graduated with honours in Tibetan Studies (2018). My work focuses on the role of contemporary Tibetan popular and folk music within the broader framework of socio-cultural life. Above all, I am interested in the lyrics – the innovation of poetic tools and language in relation to the identity discourse. From the theoretical standpoint, my research hinges on the concepts of *authenticity* and *place-making*. Thus, in my dissertation, I explore the **traces of orality in Tibetan rap lyrics**. Besides, as a follow-up research stemming from my MA thesis, I also investigate the corpus of **Tibetan craniological manuals** which had originally brought my attention to the use of digital tools in humanities.
 
 {{< spoiler text="Read more" >}}
-Since 2018, I have worked for the Oriental Institute of the Czech Academy of Sciences as an editor-in-chief of an online [Tibetan-English-Czech dictionary](https://linguatools.info/tibendicts/) (currently in *beta*) and a cataloguist of Tibetan manuscripts, xylographs, and newspapers. Furthermore, as a librarian and junior research assistant, I have been responsible for the Tibetan collection at my *alma mater* since 2016. I am also one of the founding members and current president of the Czech Association of Orientalists *[Orientalistic Express](http://orientalistickyexpres.cz)* which aims to support cross-disciplinary cooperation, research popularisation and provides fact-checking on demand. Receiving a scholarship from the Anglo-Czech Educational Fund in 2019 enabled me to become a Recognised Student at the University of Oxford where I was focused on advancing my skills in research design and qualitative methodology. Earlier the same year, I partook a CEEPUS internship at the Wiener Universität where I attended lectures on TEI principles and XML encoding. My research was repeatedly supported by the Charles University, including funding of two field research trips to Mustang (Nepal) and Dharamsala (India).
+Since 2018, I have worked for the Oriental Institute of the Czech Academy of Sciences as an editor-in-chief of an online [Tibetan-English-Czech dictionary](https://linguatools.info/tibendicts/) (currently in *beta*) and a cataloguer of Tibetan manuscripts, xylographs, and newspapers. Furthermore, as a librarian and junior research assistant, I have been responsible for the Tibetan collection at my *alma mater* since 2016. I am also one of the founding members and current president of the Czech Association of Orientalists *[Orientalistic Express](http://orientalistickyexpres.cz)*, which aims to support cross-disciplinary cooperation, research popularisation and provides fact-checking on demand. Receiving a scholarship from the Anglo-Czech Educational Fund in 2019 enabled me to become a Recognised Student at the University of Oxford, where I was focused on advancing my skills in research design and qualitative methodology. Earlier the same year, I participated in a CEEPUS internship at the Wiener Universität, where I attended lectures on TEI principles and XML encoding. My research was repeatedly supported by Charles University, including funding for two field research trips to Mustang (Nepal) and Dharamsala (India).
 
-In 2019, I have co-authored an open access e-monograph called *[Chapters from life of Tibetans](https://karolinum.cz/knihy/jandacek-chapters-from-life-of-tibetans-22475)* (in English) and published several articles (in Czech) throughout the years. My participation in international conferences included e.g. the 17th Annual Conference of the European Association for the Study of Religions (Tartu) or the 19th colloquium Orientalia Antiqua Nova (Pilsen). In 2019, I organised a student conference for PhD students of Asian studies from all Czech universities. Throughout the years, I gave multiple public lectures on various Tibet-related topics, namely at the One World Festival or as part of the TGSS at the Faculty of Oriental Studies in Oxford.
+In 2019, I co-authored an open-access e-book called *[Chapters from life of Tibetans](https://karolinum.cz/knihy/jandacek-chapters-from-life-of-tibetans-22475)* (in English) and published several articles (in Czech) throughout the years. My participation in international conferences included, e.g. the 17th Annual Conference of the European Association for the Study of Religions (Tartu) or the 19th colloquium Orientalia Antiqua Nova (Pilsen). In 2019, I organised a student conference for PhD students of Asian studies from all Czech universities. Throughout the years, I gave multiple public lectures on various Tibet-related topics, namely at the One World Festival or as part of the TGSS at the Faculty of Oriental Studies in Oxford.
 {{< /spoiler >}}
